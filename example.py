@@ -1,5 +1,7 @@
 import requests
 
+
 if __name__ == "__main__":
-    print("Hello worlds!")
-    requests.get("http://example.com")
+    print("Hello world!")
+
+    requests.get("http://google.com")
